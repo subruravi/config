@@ -1,0 +1,9 @@
+spring:
+    profiles: testfr2
+appMessage: Test Fr2 Program setup Micro service
+
+---
+spring:
+    profiles: qaps
+appMessage: QAPS Program setup Micro service
+ 
