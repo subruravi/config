@@ -1,1 +1,5 @@
 appMessage: Test Fr2 Program setup Micro service 
+---
+spring:
+  profiles: qaps
+appMessage: QA PS Program setup Micro service 
