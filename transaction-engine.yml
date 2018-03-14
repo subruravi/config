@@ -1,4 +1,4 @@
-appMessage: TestFr2 Transcation Engine Micro service.
+appMessage: Test Fr2 Transcation Engine Micro service. value updated for demo.
 ---
 spring:
   profiles: qaps
