@@ -1,4 +1,4 @@
-appMessage: Test Fr2 Transcation Engine Micro service 
+appMessage: TestFr2 Transcation Engine Micro service.
 ---
 spring:
   profiles: prod
