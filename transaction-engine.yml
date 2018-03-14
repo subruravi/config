@@ -1,5 +1,9 @@
 appMessage: TestFr2 Transcation Engine Micro service.
 ---
 spring:
+  profiles: qaps
+appMessage: QAPS Transcation Engine Micro service 
+---
+spring:
   profiles: prod
 appMessage: PROD Transcation Engine Micro service 
