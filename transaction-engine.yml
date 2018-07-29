@@ -2,8 +2,8 @@ appMessage: Test Fr2 Transcation Engine Micro service. value updated for demo.
 ---
 spring:
   profiles: qaps
-appMessage: QAPS Transcation Engine Micro service 
+appMessage: QAPS Transcation Engine Micro service- Invoked... 
 ---
 spring:
   profiles: prod
-appMessage: PROD Transcation Engine Micro service 
+appMessage: PROD Transcation Engine Micro service called...
